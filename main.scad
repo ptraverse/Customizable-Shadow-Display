@@ -15,10 +15,10 @@ GitHub: https://github.com/roipoussiere/Customizable-Digital-Sundial*/
 // preview[view:south west]
 
 // For each positions, separated by ';'.
-text = "The;quick;brown;fox;jumps;over;the;lazy;dog.";
+text = "Make;Good;Things.";
 
 // In minutes
-digit_duration = 20; // [5:120]
+digit_duration = 5; // [5:120]
 
 // Used to display the digits.
 font = 0; // [0:ASCII (5x7),1:Numbers (4x6)]
@@ -144,7 +144,7 @@ module holes() {
  +			}
  +//End of Optimization by Margu
  +		}
- +	  }	
+ +	  }
  +    }
  +  }
  +}
